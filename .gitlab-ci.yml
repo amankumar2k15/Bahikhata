@@ -1,0 +1,11 @@
+develop_deploy:
+  tags:
+    - develop_server
+  stage: deploy
+  only:
+    - develop
+    - merge_requests
+  script:
+    - bash 1.develop.deploy.sh
+  parallel: 2
+

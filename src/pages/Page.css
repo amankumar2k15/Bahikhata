@@ -1,0 +1,54 @@
+.app-btn-link {
+  color: #143b64;
+  font-weight: 400;
+}
+.app-btn {
+  color: #7f2a3c;
+  color: #fff;
+}
+
+.login-carousel-wrapper {
+  display: block;
+  width: 600px;
+  height: 450px;
+  padding: 30px;
+}
+
+.app-input-file {
+  background: #dddddd;
+  border-radius: 5px;
+  padding: 6px 10px;
+}
+
+.password-eye-percentage-login {
+  position: absolute;
+  right: 15px;
+  margin-top: -22.5px;
+}
+
+@media (min-width: 1351px) {
+  .password-eye-percentage-login{
+    margin-top: -35.5px;
+  }
+}
+@media (max-width: 1351px) {
+  .password-eye-percentage-login{
+    margin-top: -32.5px;
+  }
+}
+.password-eye-percentage {
+  position: absolute;
+  right: 15px;
+  margin-top: -28.5px;
+}
+
+@media (min-width: 1351px) {
+  .password-eye-percentage{
+    margin-top: -28.5px;
+  }
+}
+@media (max-width: 1351px) {
+  .password-eye-percentage{
+    margin-top: -25.5px;
+  }
+}

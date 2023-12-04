@@ -1,0 +1,353 @@
+.carousel-height {
+  height: 40%;
+  width: 100%;
+}
+.logo_ {
+  width: 17rem;
+  align-items: center;
+}
+
+.sign-btn {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+}
+.signup-btn {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #ffffff;
+  background-color: #0b1a67;
+  height: 40px;
+  width: 112px;
+  border-radius: 32px;
+  border: none;
+}
+
+.logoin-btn {
+  color: #ffffff;
+  text-decoration: none;
+}
+.img1 {
+  margin-top: 5rem;
+}
+.text-wrapper {
+  margin-top: 7rem;
+  margin-left: 5rem;
+  /* position: relative;
+  top: 5rem; */
+}
+
+.text-cont1 {
+  color: #0b1a67;
+  width: 40%;
+  height: 6rem;
+}
+
+.text-cont2 {
+  color: #0b1a67;
+  height: 13rem;
+  width: 40%;
+  margin-top: 1rem;
+}
+.text-cont3 {
+  color: #0b1a67;
+  height: 317px;
+  width: 471px;
+  margin-top: 1.2rem;
+}
+
+.btn-reg {
+  color: #ffffff;
+  background-color: #0b1a67;
+  padding: 0.5rem 2rem;
+  /* height: 48px;
+  width: 200px; */
+  border-radius: 32px;
+  margin-top: 1rem;
+  border: none;
+}
+
+/* addon component */
+.addon-head {
+  color: #0b1a67;
+  text-align: center;
+}
+.addon-top {
+  margin-top: 30px;
+}
+
+/* Dashboard */
+.dash-img1 {
+  margin-top: 1rem;
+}
+.dash-text {
+  color: #0b1a67;
+  /* width: 34rem; */
+  margin-left: 5rem;
+  margin-top: 20rem;
+}
+.dash-screen {
+  margin-top: 15rem;
+  margin-right: 1rem;
+  width: 95%;
+  z-index: 1;
+  /* width: 45rem; */
+  height: 55%;
+}
+
+.dash-img2 {
+  background-image: url("../../assets/img/dashboard1.png");
+  background-position: right center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  /* height: 55rem; */
+}
+
+/* plans */
+.plan-img {
+  z-index: -99;
+  height: 85rem;
+  background-image: url("../../assets/img/plan.png");
+  background-position: center;
+  /* background-size: 100%; */
+  background-repeat: no-repeat;
+
+  /* width: 100%; */
+}
+.w-100 {
+  width: 100%;
+}
+.plan-tri {
+  position: absolute;
+  right: 0;
+  margin-top: 14rem;
+
+  /* margin-left: 80.8rem; */
+}
+.plan-outer {
+  background-color: rgba(22, 29, 86, 0.8);
+  margin-top: -55rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.plan-inner {
+  /* position: relative; */
+  background: #1d396c;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 1);
+  border-radius: 16px;
+  opacity: 100%;
+  padding: 0.2rem 1.8rem 1.5rem 1.8rem;
+  margin-bottom: 3rem;
+}
+
+.plan-text {
+  /* position: relative; */
+  /* bottom: 30rem; */
+  color: #ffffff;
+  padding-top: 2rem;
+  /* width: 678px;f
+  height: 118px;
+  margin-left: 32.5rem; */
+}
+.plan-sub-cont {
+  margin-top: 1rem;
+}
+.plan-price {
+  color: #0b1a67;
+
+  white-space: nowrap;
+  margin-left: 0.7rem;
+  margin-top: 1.2rem;
+}
+.plan-btn {
+  background-color: #161d56;
+  color: #ffffff;
+  border-radius: 32px;
+  margin-top: 0.2rem;
+  width: 15rem;
+  padding: 1rem;
+  border: none;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+}
+.plan-heading {
+  color: #ffffff;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.7rem;
+  line-height: 30px;
+}
+.price {
+  color: #ffffff;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 48px;
+}
+.recommended {
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 500;
+  font-size: 8px;
+  line-height: 12px;
+}
+
+/* dashboard2 */
+
+.dashboard2-img1 {
+  z-index: 99;
+  margin-top: 30rem;
+  margin-left: 1.5rem;
+  background-image: url("../../assets/img/dashboard2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.dash2-text {
+  color: #0b1a67;
+
+  margin-top: 12rem;
+
+  /* width: 0%; */
+}
+
+/* footer */
+.footer-img {
+  background-image: url("../../assets/img/footerboard1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 886px;
+  width: 100%;
+}
+.footer-rect {
+  display: inline-block;
+  width: 1066px;
+  height: 220px;
+  background: #ffffff;
+  box-shadow: 6px 8px 4px rgb(0 0 0 / 10%);
+  border-radius: 16px;
+  margin-top: 21.5rem;
+  margin-left: 21rem;
+}
+.footer-text {
+  margin-left: 4rem;
+  margin-top: 4rem;
+}
+.footer-t2 {
+  width: 470px;
+  height: 48px;
+}
+.footer-btn {
+  margin-left: 12rem;
+  margin-top: 3rem;
+  border: none;
+}
+.margin {
+  height: 40rem;
+  margin-top: 35rem;
+}
+.margin-10 {
+  margin-top: 5rem;
+}
+.margin-20 {
+  margin-top: 15rem;
+}
+.bg-img {
+  background-image: url("../../assets/img/Group\ 10282.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-img1 {
+  position: relative;
+  height: 50rem;
+  width: 50%;
+  background-image: url("../../assets/img/Group10282r.png");
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.invoice-img {
+  position: relative;
+  right: 4rem;
+  top: 5rem;
+}
+.background-img {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("../../assets/img/group1.png");
+  background-position: top right;
+}
+@media only screen and (max-width: 600px) {
+  .background-img {
+    padding-top: 0.5rem;
+  }
+  .text-wrapper {
+    margin-top: 17rem;
+    max-width: max-content;
+    white-space: wrap;
+    margin-left: 0;
+  }
+  .text-cont1 {
+    margin-left: 1rem;
+    width: 100%;
+    height: 100%;
+  }
+  .text-cont2 {
+    margin-left: 1rem;
+    width: 100%;
+    height: 100%;
+  }
+
+  .btns {
+    margin-top: 5rem;
+  }
+  .btn-reg {
+    margin-left: 15%;
+  }
+  .img1 {
+    margin-top: -20rem;
+  }
+  .dash-text {
+    margin-left: 2rem;
+    margin-right: 1rem;
+    margin-top: 0rem;
+  }
+  .dash-screen {
+    margin-top: 0rem;
+    width: 100%;
+    height: 100%;
+  }
+  .plan-price {
+    white-space: wrap;
+  }
+  .dashboard2-img1 {
+    width: 94%;
+    margin-top: 35rem;
+  }
+  .margin-20mob {
+    margin-top: 15rem;
+  }
+  .bg-img1 {
+    width: 100%;
+  }
+}
+.position-absolute {
+  position: absolute;
+}
+.h-10 {
+  height: 20rem;
+}
+.margin_20 {
+  margin-top: -25rem;
+}
